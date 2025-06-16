@@ -1,0 +1,42 @@
+
+
+/*pagina 4*/
+
+.header{
+background-color: blue;
+float:left;
+height: 40px;
+width: 100%;
+}
+/*barra lateral izquierda*/
+.sidebar{
+  float: left;
+  width: 25%;
+  height: 400px;
+  background: #E3DCDD;
+
+}
+
+.contenido{
+  float: left;
+  width: 75%;
+  height: 400px;
+  background: #F9B0A2;
+
+}
+.pie{
+  float: left;
+  width: 100%;
+  height: 50px;
+  background-color: yellow;
+
+}
+
+.caja{
+  width: 110px;
+  height:110px;
+  background-color: #DCE3E3;
+  margin: 5px;
+  /*flotante*/
+  float: left;
+}
